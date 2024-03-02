@@ -6,3 +6,7 @@ The .pbix file includes the PowerBI dashboard with KPI insight covered for begin
 ## Problem Statement
 
 To provide an introductory insight to the formation of an PowerBI dashboard on real world data.
+
+## Dashboard Preview
+
+![image](https://github.com/Vanshika4111/Global-Super-Store/assets/107075729/39f01060-211a-45f0-9e31-c50046016434)
